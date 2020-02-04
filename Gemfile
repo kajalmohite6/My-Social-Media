@@ -5,6 +5,10 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.8'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.15'
+# Use Bootstrap 4 dependency
+gem 'sprockets-rails', require: 'sprockets/railtie'
+# adding bootstrap 4
+gem 'bootstrap', '~> 4.4.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets

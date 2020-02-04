@@ -22,7 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
+How To Use PostgreSQL with Your Ruby on Rails Application on macOS
+https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-ruby-on-rails-application-on-macos
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
